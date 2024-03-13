@@ -1,1 +1,1 @@
-# CODSOFT_Intern_Calculator
+# Calculator
